@@ -1,6 +1,6 @@
 # LyricsDem
 
-Users can add songs and lyrics, as well as vote.
+Users can add songs and lyrics, as well as vote. Created to learn GraphQL, decided on Apollo over Lokka, as Relay looked WAY too intimidating atm. Created an earlier GraphQL project to learn the basics, wanted to translate that to something more than dealing with the GraphiQL interface, which is great for building queries and mutations.
 
 ## Feb 14, 2018
 * Deleted entire Lyrics branch to start from scratch as there was a rendering error I could not figure out.
