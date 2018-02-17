@@ -1,7 +1,7 @@
 {
   "name": "lyrics-dem",
   "version": "1.0.0",
-  "description": "afa",
+  "description": "Add songs and lyrics to songs",
   "main": "index.js",
   "repository": {
     "type": "git"
@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "nodemon index.js --ignore client"
   },
-  "author": "",
+  "author": "Dion Pettaway",
   "license": "ISC",
   "dependencies": {
     "nodemon": "*",
